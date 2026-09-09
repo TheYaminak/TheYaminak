@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @TheYaminak<br>- 👀 I’m interested in Software development, backend, C++ and Go<br>- 🌱 I’m currently learning Golang<br>- 💞️ I’m looking to collaborate with teams that help me grow<br>- 📫 How to reach me by main: joasdiaz98@gmail.com and Linkedin: https://www.linkedin.com/in/joas-diaz-558b04207/<br>
+- 👋 Hi, I’m @TheYaminak<br>- 👀 I’m interested in Software development, backend, C++ and Go<br>- 💞️ I’m looking to collaborate with teams that help me grow<br>- 📫 How to reach me by main: joasdiaz98@gmail.com and Linkedin: https://www.linkedin.com/in/joas-diaz-558b04207/<br>
 
 
 ## 🌐 Socials:
